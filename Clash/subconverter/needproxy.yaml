@@ -1,1 +1,11 @@
 
+payload:
+  # 白名单
+  - DOMAIN-SUFFIX,c.mi.com
+  # GoogleCN
+  - DOMAIN,xn--ngstr-cn-8za9o.com
+  - DOMAIN,xn--ngstr-lra8j.com
+  - DOMAIN,rr3---sn-j5o76n7l.xn--ngstr-cn-8za9o.com
+  - DOMAIN,services.googleapis.cn
+
+  - DOMAIN,bbs.acgrip.com
